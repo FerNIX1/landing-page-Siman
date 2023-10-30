@@ -41,6 +41,13 @@ body {
     text-align: center;
     padding: 100px;
 }
+.Header-Content{
+    background-image: url('https://i0.wp.com/www.madboxpc.com/wp-content/uploads/2023/05/2023-ROG-Strix-SCAR-1618_G634JY_G634JZ_G834JY_G834JZ.jpg?fit=1300%2C570&ssl=1'); /* Agrega la ruta de la imagen */
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px;
+}
 
 .text-container {
     max-width: 600px;
