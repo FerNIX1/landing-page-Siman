@@ -69,6 +69,17 @@ body {
     padding: 20px;
     text-align: center;
 }
+.img1 img,
+.img2 img,
+.img3 img {
+    display: block;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: center;
+    margin: auto; 
+}
+
 
 /* Media query para tablet */
 @media (max-width: 768px) {
