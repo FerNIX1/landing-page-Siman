@@ -32,7 +32,13 @@ body {
     text-decoration: none;
     color: white;
 }
-
+.Header-fondo{
+    background-image: url('https://www.shutterstock.com/image-photo/stylish-young-couple-hoodies-denim-260nw-2098676257.jpg'); /* Agrega la ruta de la imagen */
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px;
+}
 /* Estilos para el encabezado */
 .header-content {
     background-image: url('https://cdn-3.expansion.mx/dims4/default/595158d/2147483647/strip/true/crop/1254x836+0+0/resize/1200x800!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fdc%2Fb5%2Fd9d9a4834699b637eb2c145013b0%2Fistock-639711544.jpg'); /* Agrega la ruta de la imagen */
